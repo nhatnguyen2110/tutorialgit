@@ -1,7 +1,11 @@
 this file was created by develop1
 
 this is new line from developer1
-this is new line from developer2
 
+<<<<<<< HEAD
 Hello World
+||||||| 5e3a276
+Hello
+=======
 this is the line from develop branch
+>>>>>>> develop
