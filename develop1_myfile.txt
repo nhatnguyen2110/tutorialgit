@@ -5,3 +5,5 @@ this is new line from developer2
 
 Hello World
 this is the line from develop branch
+
+this is the line that add by new commit 1
